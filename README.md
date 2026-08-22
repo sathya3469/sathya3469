@@ -11,7 +11,7 @@
 ---
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rao-arnvvssp-130ba463/)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=flat-square&logo=gmail)](mailto:venkatsai91@gmail.com)
 
 </div>
@@ -203,8 +203,6 @@ I specialise in building **cloud-native microservices platforms** on Azure, inte
 | | |
 |--|--|
 | 🎓 **B.Tech – Electronics & Communication Engineering** | Nova College of Engineering & Technology · 2005–2009 |
-| 📋 **AZ-204** – Azure Developer Associate | *In Progress / Planned* |
-| 📋 **AZ-305** – Azure Solutions Architect Expert | *Planned* |
 
 ---
 
@@ -221,7 +219,7 @@ I specialise in building **cloud-native microservices platforms** on Azure, inte
 
 I am currently **open to Technical Lead, Solution Architect, and Principal Engineer** roles in **Hyderabad & Bangalore** (hybrid/remote).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rao-arnvvssp-130ba463/))
 [![Email](https://img.shields.io/badge/Gmail-Hire_Me-D14836?style=for-the-badge&logo=gmail)](mailto:venkatsai91@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10d9a0?style=for-the-badge&logo=github)](https://your-github-username.github.io)
 
