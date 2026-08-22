@@ -6,7 +6,7 @@
 
 **.NET Core · Azure · Apache Kafka · Microservices · React.js**
 
-📍 Hyderabad, India &nbsp;|&nbsp; 📧 venkatsai91@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/your-profile) &nbsp;|&nbsp; 🌐 Open to Work
+📍 Hyderabad, India &nbsp;|&nbsp; 📧 venkatsai91@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn]((https://www.linkedin.com/in/rao-arnvvssp-130ba463/)) &nbsp;|&nbsp; 🌐 Open to Work
 
 ---
 
