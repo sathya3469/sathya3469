@@ -188,11 +188,7 @@ I specialise in building **cloud-native microservices platforms** on Azure, inte
 
 <div align="center">
 
-![Rao's GitHub Stats](https://github.com/sathya3469/sathya3469/blob/main/README.md)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10d9a0)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sathya3469&theme=dark&hide_border=true&background=0d1117&ring=10d9a0&fire=10d9a0&currStreakLabel=10d9a0)
 
 </div>
 
@@ -219,9 +215,9 @@ I specialise in building **cloud-native microservices platforms** on Azure, inte
 
 I am currently **open to Technical Lead, Solution Architect, and Principal Engineer** roles in **Hyderabad & Bangalore** (hybrid/remote).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rao-arnvvssp-130ba463/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rao-arnvvssp-130ba463/)
 [![Email](https://img.shields.io/badge/Gmail-Hire_Me-D14836?style=for-the-badge&logo=gmail)](mailto:venkatsai91@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10d9a0?style=for-the-badge&logo=github)](https://your-github-username.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10d9a0?style=for-the-badge&logo=github)](https://github.com/sathya3469)
 
 ---
 
