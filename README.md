@@ -10,7 +10,7 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=10d9a0&style=flat-square)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rao-arnvvssp-130ba463/)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=flat-square&logo=gmail)](mailto:venkatsai91@gmail.com)
 
