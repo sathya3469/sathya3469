@@ -40,13 +40,23 @@ I specialise in building **cloud-native microservices platforms** on Azure, inte
 🔐  Security           JWT · OAuth 2.0 · SSL/TLS · Role-Based Access Control
 🔧  DevOps             Terraform · Azure DevOps · Git · CI/CD · Docker · Shell Script
 ```
+AI Agent Platform with RAG & Vector Database  |  Personal Project  |  2025 – Present  | India
+Built a production-grade AI Agent Platform from scratch — full-stack architecture with React + .NET Core API, implementing RAG pipelines, vector search, and multi-agent chat services .
+●Designed and implemented a Retrieval-Augmented Generation (RAG) pipeline integrating ChromaDB as the vector store for semantic document search and context retrieval
+●Built a persistent data layer using PostgreSQL for storing conversations, documents, user sessions, and agent memory across interactions
+●Developed an AI Agent Chat Service with multi-agent orchestration, enabling context-aware, tool-using conversational AI responses
+●Integrated Ollama (local LLM runtime) for on-premise inference, ensuring data privacy and zero inference cost
+●Architected the React 18 + TypeScript frontend with real-time streaming chat UI, document upload, and agent selection
+●Implemented Clean Architecture in .NET 8 API with CQRS pattern, repository abstraction, and dependency injection
+●Designed vector embedding pipeline: document ingestion → chunking → embedding → ChromaDB storage → semantic retrieval at query time
+ Stack: .NET 8 · React 18 + TypeScript · ChromaDB · PostgreSQL · Ollama (LLM) · Docker ·  xUnit · Playwright
 
 ---
 
 ## 💼 Professional Experience
 
 ### 🏢 Encora Innovation Labs Pvt. Ltd.
-**Technical Lead** &nbsp;|&nbsp; *Sep 2022 – Aug 2025* &nbsp;|&nbsp; Chennai, India
+**Technical Lead** &nbsp;|&nbsp; *Sep 2022 – Aug 2026* &nbsp;|&nbsp; Chennai, India
 
 - 🔷 Architected and led development of a **cloud-native microservices platform** consuming real-time messages from **Apache Kafka → Azure Functions → Azure Blob Storage**
 - 🔷 Designed scalable **RESTful APIs** using **.NET Core** for modular enterprise platform integration
