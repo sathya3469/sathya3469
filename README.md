@@ -224,21 +224,6 @@ I specialise in building **cloud-native microservices platforms** on Azure, inte
 > Clean Architecture microservices with CQRS, repository pattern, Azure deployment
 > `C#` `.NET Core` `Docker` `AKS` `Terraform` `Azure Pipelines`
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10d9a0&icon_color=10d9a0)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10d9a0)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true&background=0d1117&ring=10d9a0&fire=10d9a0&currStreakLabel=10d9a0)
-
-</div>
-
----
 
 ## 🎓 Education & Certifications
 
