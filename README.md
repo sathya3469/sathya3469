@@ -4,14 +4,14 @@
 
 ### Technical Lead · Solution Architect · Full Stack Engineer
 
-**.NET Core · Azure · Apache Kafka · Microservices · React.js**
+**.NET Core · Azure · Apache Kafka · Microservices · React.js · AI/RAG · ChromaDB · AI Agents**
 
-📍 Hyderabad, India &nbsp;|&nbsp; 📧 venkatsai91@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://www.linkedin.com/in/rao-arnvvssp-130ba463/) &nbsp;|&nbsp; 🌐 Open to Work
+📍 Hyderabad, India &nbsp;|&nbsp; 📧 venkatsai91@gmail.com &nbsp;|&nbsp; 💼 [LinkedIn](https://linkedin.com/in/rao-arnvvssp-130ba463) &nbsp;|&nbsp; 🌐 Open to Work
 
 ---
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/rao-arnvvssp-130ba463/)
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=10d9a0&style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/rao-arnvvssp-130ba463/)
 [![Email](https://img.shields.io/badge/Email-Hire%20Me-D14836?style=flat-square&logo=gmail)](mailto:venkatsai91@gmail.com)
 
 </div>
@@ -20,9 +20,9 @@
 
 ## 🧑‍💻 About Me
 
-I am a **Technical Lead and Associate Architect** with **13+ years** of experience designing and delivering enterprise-grade software across **GovTech, FinTech, Healthcare, and Mortgage** domains.
+I am a **Technical Lead and Solution Architect** with **13+ years** of experience designing and delivering enterprise-grade software across **GovTech, FinTech, Healthcare, and Mortgage** domains.
 
-I specialise in building **cloud-native microservices platforms** on Azure, integrating real-time event pipelines using **Apache Kafka**, and leading cross-functional engineering teams from architecture through to production delivery.
+I specialise in building **cloud-native microservices platforms** on Azure, integrating real-time event pipelines using **Apache Kafka**, and leading cross-functional engineering teams from architecture through to production delivery. Recently expanded into **AI/ML engineering** — shipped a production-grade **RAG pipeline**, **AI Agent Chat Service**, and **vector database system** using ChromaDB, PostgreSQL, and Ollama.
 
 > *"I don't just write code — I architect systems that scale, mentor teams that grow, and deliver platforms that matter."*
 
@@ -31,30 +31,40 @@ I specialise in building **cloud-native microservices platforms** on Azure, inte
 ## 🚀 What I Do
 
 ```text
-🏗️  Architecture       Microservices · Event-Driven · REST API Design · HLD/LLD
+🤖  AI / ML            RAG Pipelines · AI Agents · ChromaDB · PostgreSQL Vector Store
+                       Ollama (LLM) · Azure OpenAI · LangChain · Prompt Engineering
+                       Document Embedding · Semantic Search · Multi-Agent Orchestration
+🏗️  Architecture       Microservices · Event-Driven · REST API Design · HLD/LLD · CQRS
 ☁️  Cloud              Azure Functions · AKS · Blob Storage · Azure Pipelines · Docker
-⚡  Messaging          Apache Kafka · Azure Service Bus · Event-Driven Architecture  
-🖥️  Backend            .NET Core · C# · ASP.NET MVC · Entity Framework · Web API
-🎨  Frontend           React.js · JavaScript · HTML5 · CSS3 · jQuery · AJAX
-🗄️  Data               SQL Server · SSRS · Power BI · Stored Procedures · T-SQL
-🔐  Security           JWT · OAuth 2.0 · SSL/TLS · Role-Based Access Control
-🔧  DevOps             Terraform · Azure DevOps · Git · CI/CD · Docker · Shell Script
+⚡  Messaging          Apache Kafka · Azure Service Bus · Event-Driven Architecture
+🖥️  Backend            .NET Core 8 · C# · ASP.NET MVC · Entity Framework · Web API
+🎨  Frontend           React.js 18 · TypeScript · JavaScript · HTML5 · CSS3 · AJAX
+🗄️  Data               SQL Server · PostgreSQL · ChromaDB · SSRS · Power BI · T-SQL
+🔐  Security           JWT · OAuth 2.0 · SSL/TLS · Azure AD · Role-Based Access Control
+🔧  DevOps             Terraform · Azure DevOps · Git · CI/CD · Docker · xUnit · Playwright
 ```
 
 ---
 
 ## 💼 Professional Experience
 
-**Learning and Development Specialist** AI Agent Platform with RAG & Vector Database  |  Personal Project &nbsp;|&nbsp;   2025 – Present  | India
-Built a production-grade AI Agent Platform from scratch — full-stack architecture with React + .NET Core API, implementing RAG pipelines, vector search, and multi-agent chat services .
-●Designed and implemented a Retrieval-Augmented Generation (RAG) pipeline integrating ChromaDB as the vector store for semantic document search and context retrieval
-●Built a persistent data layer using PostgreSQL for storing conversations, documents, user sessions, and agent memory across interactions
-●Developed an AI Agent Chat Service with multi-agent orchestration, enabling context-aware, tool-using conversational AI responses
-●Integrated Ollama (local LLM runtime) for on-premise inference, ensuring data privacy and zero inference cost
-●Architected the React 18 + TypeScript frontend with real-time streaming chat UI, document upload, and agent selection
-●Implemented Clean Architecture in .NET 8 API with CQRS pattern, repository abstraction, and dependency injection
-●Designed vector embedding pipeline: document ingestion → chunking → embedding → ChromaDB storage → semantic retrieval at query time
- Stack: .NET 8 · React 18 + TypeScript · ChromaDB · PostgreSQL · Ollama (LLM) · Docker ·  xUnit · Playwright
+### 🤖 AI Agent Platform with RAG & Vector Database — Personal Project
+**Full Stack AI Engineer (Solo)** &nbsp;|&nbsp; *2025 – Present* &nbsp;|&nbsp; Hyderabad, India
+
+> Built a production-grade AI Agent Platform from scratch — full-stack architecture with React + .NET Core API, implementing RAG pipelines, vector search, and multi-agent chat services.
+
+- 🔶 Designed and implemented a **Retrieval-Augmented Generation (RAG) pipeline** integrating **ChromaDB** as the vector store for semantic document search and context retrieval
+- 🔶 Built a persistent data layer using **PostgreSQL** for storing conversations, documents, user sessions, and agent memory across interactions
+- 🔶 Developed an **AI Agent Chat Service** with multi-agent orchestration, enabling context-aware, tool-using conversational AI responses
+- 🔶 Integrated **Ollama** (local LLM runtime) for on-premise inference, ensuring data privacy and zero inference cost
+- 🔶 Architected the **React 18 + TypeScript** frontend with real-time streaming chat UI, document upload, and agent selection
+- 🔶 Implemented **Clean Architecture** in .NET 8 API with **CQRS** pattern, repository abstraction, and dependency injection
+- 🔶 Designed vector embedding pipeline: **document ingestion → chunking → embedding → ChromaDB storage → semantic retrieval** at query time
+- 🔶 Wrote comprehensive test coverage using **xUnit** (unit + integration) and **Playwright** (E2E)
+
+> **Stack:** `.NET 8` `React 18 + TypeScript` `ChromaDB` `PostgreSQL` `Ollama (LLM)` `Docker` `xUnit` `Playwright`
+
+---
 
 ### 🏢 Encora Innovation Labs Pvt. Ltd.
 **Technical Lead** &nbsp;|&nbsp; *Sep 2022 – Aug 2026* &nbsp;|&nbsp; Chennai, India
@@ -116,6 +126,7 @@ Built a production-grade AI Agent Platform from scratch — full-stack architect
 
 | Domain | Projects | Impact |
 |--------|----------|--------|
+| 🤖 **AI / ML** | RAG Platform, AI Agent Chat Service, Vector DB | ChromaDB · PostgreSQL · Ollama · Multi-agent |
 | 🏛️ **GovTech** | GVMC Tax Collection, Hospital Mgmt, Auction Systems | Lakhs of citizens served |
 | 💰 **FinTech / Payroll** | Payroll Systems, Expenditure Mgmt, Shop Lease | Enterprise-grade financial ops |
 | 🏠 **Mortgage** | Encora enterprise platform, Kafka pipeline | Real-time data processing at scale |
@@ -124,6 +135,16 @@ Built a production-grade AI Agent Platform from scratch — full-stack architect
 ---
 
 ## 🛠️ Tech Stack
+
+### AI / ML
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-10d9a0?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-Vector_Store-FF6B35?style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-LLM_Runtime-000000?style=flat-square)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![xUnit](https://img.shields.io/badge/xUnit-Testing-512BD4?style=flat-square)
+![Playwright](https://img.shields.io/badge/Playwright-E2E-45ba4b?style=flat-square&logo=playwright&logoColor=white)
 
 ### Languages & Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
@@ -155,6 +176,12 @@ Built a production-grade AI Agent Platform from scratch — full-stack architect
 ## 🏆 Key Achievements
 
 ```
+✅  Built production-grade RAG pipeline: document ingestion → chunking →
+    embedding → ChromaDB vector store → semantic retrieval (2026)
+
+✅  Shipped AI Agent Chat Service with multi-agent orchestration using
+    Ollama LLM, PostgreSQL memory store, React 18 streaming UI
+
 ✅  Architected Kafka → Azure Functions → Blob Storage real-time pipeline
     processing enterprise mortgage data at scale (Encora, 2022–2025)
 
@@ -176,6 +203,10 @@ Built a production-grade AI Agent Platform from scratch — full-stack architect
 ## 📂 Featured Projects
 
 > 💡 *Pinned repositories below showcase architecture patterns, code quality, and domain expertise*
+
+### 🔶 [AI Agent Platform — RAG + ChromaDB + PostgreSQL](https://github.com/sathya3469/ai-agent-platform)
+> Production-grade AI Agent Platform: RAG pipeline · ChromaDB vector store · PostgreSQL memory · multi-agent chat · React 18 streaming UI · .NET 8 Clean Architecture
+> `C#` `.NET 8` `React 18` `TypeScript` `ChromaDB` `PostgreSQL` `Ollama` `Docker` `xUnit` `Playwright`
 
 ### 🔷 [Kafka Azure Functions Pipeline Demo](https://github.com/your-username/kafka-azure-functions)
 > Event-driven microservices: Kafka consumer → Azure Function → Blob Storage
@@ -199,7 +230,11 @@ Built a production-grade AI Agent Platform from scratch — full-stack architect
 
 <div align="center">
 
+![Rao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10d9a0&icon_color=10d9a0)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10d9a0)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=dark&hide_border=true&background=0d1117&ring=10d9a0&fire=10d9a0&currStreakLabel=10d9a0)
 
 </div>
 
@@ -210,6 +245,7 @@ Built a production-grade AI Agent Platform from scratch — full-stack architect
 | | |
 |--|--|
 | 🎓 **B.Tech – Electronics & Communication Engineering** | Nova College of Engineering & Technology · 2005–2009 |
+
 
 ---
 
@@ -224,9 +260,9 @@ Built a production-grade AI Agent Platform from scratch — full-stack architect
 
 <div align="center">
 
-I am currently **open to Technical Lead, Solution Architect, and Principal Engineer** roles in **Hyderabad & Bangalore** (hybrid/remote).
+I am currently **open to Technical Lead, Solution Architect, Principal Engineer, and AI/ML Engineer** roles in **Hyderabad & Bangalore** (hybrid/remote).
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rao-arnvvssp-130ba463/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in//rao-arnvvssp-130ba463/)
 [![Email](https://img.shields.io/badge/Gmail-Hire_Me-D14836?style=for-the-badge&logo=gmail)](mailto:venkatsai91@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-10d9a0?style=for-the-badge&logo=github)](https://github.com/sathya3469)
 
